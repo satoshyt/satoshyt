@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @satoshyt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Satoshi, based in the Philippines and is a 2D Environment/Background Artist
+- 👀 I’m interested in painting, specifically Background and Environemnet painting
+- 🌱 I’m currently learning CAD and other 3D tools such Sketchup, Lumion, and Revit
+- 💞️ I’m looking to collaborate or be hired on Gaming Production
+- 📫 You can reach me via Facebook [facebook.com/anneezar] and/or email me at [alneezhar13@gmail.com]
 
 <!---
 satoshyt/satoshyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
